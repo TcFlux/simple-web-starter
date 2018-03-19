@@ -1,7 +1,6 @@
 {
   "name": "simple-web",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "start": "http-server -c-1",
@@ -11,5 +10,17 @@
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TcFlux/simple-web-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TcFlux/simple-web-starter/issues"
+  },
+  "homepage": "https://github.com/TcFlux/simple-web-starter#readme",
+  "description": "",
+  "dependencies": {
+    "paper": "^0.11.5"
   }
 }
